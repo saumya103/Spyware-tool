@@ -1,15 +1,24 @@
-# Spyware
-Spyware is a type of malicious software -- or malware -- that is installed on a computing device without the end user's knowledge. It invades the device, steals sensitive information and internet usage data, and relays it to advertisers, data firms or external users.
+🧪 Basic Malware Behavior Logger
+
+This is a simple simulation project to understand how malware behaves and how to detect it using basic scripting tools.
+
+👨‍💻 Project Files
+
+spyware.py: Simulates basic malware behavior
+
+logger.py: Monitors file creation as a form of behavioral analysis
+
+report.txt: Sample analysis report
 
 
-WHAT ARE THE FEATURES OF THIS CODE
+🔍 Try It
 
-(1)Record keystrokes and store it in a text file.
+Run logger.py in a terminal.
 
-(2)Record clipboard in a text file.
+In a new terminal, run fake_malware.py.
 
-(3)Record google search history and store in an excel file.
+Check if new files or actions were detected.
 
-(4)Retrieve user system's information like IP address, host, OS etc.
+📬 Author
 
-(5)Finally take a screenshot when you stop the program.
+aSaumya Elchatwar📧 2022bcs068@sggs.ac.in🔗 GitHub
