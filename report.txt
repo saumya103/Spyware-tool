@@ -1,0 +1,17 @@
+Analyst: Saumya Elchatwar
+
+Sample: spyware.py
+
+Behavior Observed:
+
+Created file: dropped_file.txt
+
+Spawned process: notepad.exe
+
+Modified registry: Software\FakeMalware (on Windows)
+
+Assessment:
+This script mimics basic malware behavior like dropping files and editing the registry. Ideal for learning detection via monitoring.
+
+Recommendation:
+Analyze behavior with tools like ProcMon or OSQuery in a virtual machine.
