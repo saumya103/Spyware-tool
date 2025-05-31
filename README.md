@@ -11,11 +11,4 @@ logger.py: Monitors file creation as a form of behavioral analysis
 report.txt: Sample analysis report
 
 
-# 🔍 Try It
-
-Run logger.py in a terminal.
-
-In a new terminal, run fake_malware.py.
-
-Check if new files or actions were detected.
 
